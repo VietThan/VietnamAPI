@@ -1,0 +1,694 @@
+Huyện An Phú does not exist in quochoixv.csv
+Huyện Châu Phú does not exist in quochoixv.csv
+Huyện Châu Thành does not exist in quochoixv.csv
+Huyện Chợ Mới does not exist in quochoixv.csv
+Huyện Phú Tân does not exist in quochoixv.csv
+Huyện Thoại Sơn does not exist in quochoixv.csv
+Huyện Tịnh Biên does not exist in quochoixv.csv
+Huyện Tri Tôn does not exist in quochoixv.csv
+Thành phố Châu Đốc has key 9 but has 90 for quochoixv.csv
+Thành phố Long Xuyên has key 10 but has 84 for quochoixv.csv
+Thị xã Tân Châu has key 11 but has 87 for quochoixv.csv
+Huyện Hiệp Hòa does not exist in quochoixv.csv
+Huyện Lạng Giang does not exist in quochoixv.csv
+Huyện Lục Nam does not exist in quochoixv.csv
+Huyện Lục Ngạn does not exist in quochoixv.csv
+Huyện Sơn Động has key 16 but has 118 for quochoixv.csv
+Huyện Tân Yên has key 17 but has 125 for quochoixv.csv
+Huyện Việt Yên does not exist in quochoixv.csv
+Huyện Yên Dũng does not exist in quochoixv.csv
+Huyện Yên Thế does not exist in quochoixv.csv
+Thành phố Bắc Giang has key 21 but has 121 for quochoixv.csv
+Huyện Ba Bể has key 22 but has 110 for quochoixv.csv
+Huyện Bạch Thông does not exist in quochoixv.csv
+Huyện Chợ Đồn does not exist in quochoixv.csv
+Huyện Na Rì does not exist in quochoixv.csv
+Huyện Ngân Sơn does not exist in quochoixv.csv
+Huyện Pác Nặm does not exist in quochoixv.csv
+Thành phố Bắc Kạn has key 29 but has 114 for quochoixv.csv
+Huyện Đông Hải does not exist in quochoixv.csv
+Huyện Hòa Bình does not exist in quochoixv.csv
+Huyện Hồng Dân does not exist in quochoixv.csv
+Huyện Phước Long does not exist in quochoixv.csv
+Huyện Vĩnh Lợi does not exist in quochoixv.csv
+Thành phố Bạc Liêu has key 35 but has 103 for quochoixv.csv
+Thị xã Giá Rai has key 36 but has 106 for quochoixv.csv
+Huyện Gia Bình does not exist in quochoixv.csv
+Huyện Lương Tài has key 38 but has 133 for quochoixv.csv
+Huyện Quế Võ does not exist in quochoixv.csv
+Huyện Thuận Thành does not exist in quochoixv.csv
+Huyện Tiên Du does not exist in quochoixv.csv
+Huyện Yên Phong does not exist in quochoixv.csv
+Thành phố Bắc Ninh has key 43 but has 128 for quochoixv.csv
+Thị xã Từ Sơn has key 44 but has 130 for quochoixv.csv
+Huyện Châu Đức does not exist in quochoixv.csv
+Huyện Côn Đảo does not exist in quochoixv.csv
+Huyện Đất Đỏ does not exist in quochoixv.csv
+Huyện Long Điền does not exist in quochoixv.csv
+Huyện Xuyên Mộc does not exist in quochoixv.csv
+Thành phố Bà Rịa has key 50 but has 99 for quochoixv.csv
+Thành phố Vũng Tàu has key 51 but has 95 for quochoixv.csv
+Thị xã Phú Mỹ does not exist in quochoixv.csv
+Huyện Ba Tri does not exist in quochoixv.csv
+Huyện Bình Đại does not exist in quochoixv.csv
+Huyện Chợ Lách does not exist in quochoixv.csv
+Huyện Giồng Trôm has key 57 but has 139 for quochoixv.csv
+Huyện Mỏ Cày Bắc does not exist in quochoixv.csv
+Huyện Mỏ Cày Nam does not exist in quochoixv.csv
+Huyện Thạnh Phú has key 60 but has 141 for quochoixv.csv
+Thành phố Bến Tre has key 61 but has 136 for quochoixv.csv
+Huyện An Lão does not exist in quochoixv.csv
+Huyện Hoài Ân does not exist in quochoixv.csv
+Huyện Hoài Nhơn does not exist in quochoixv.csv
+Huyện Phù Cát does not exist in quochoixv.csv
+Huyện Phù Mỹ does not exist in quochoixv.csv
+Huyện Tây Sơn does not exist in quochoixv.csv
+Huyện Tuy Phước does not exist in quochoixv.csv
+Huyện Vân Canh does not exist in quochoixv.csv
+Huyện Vĩnh Thạnh does not exist in quochoixv.csv
+Thành phố Quy Nhơn has key 71 but has 154 for quochoixv.csv
+Thị xã An Nhơn has key 72 but has 159 for quochoixv.csv
+Huyện Bắc Tân Uyên does not exist in quochoixv.csv
+Huyện Bàu Bàng does not exist in quochoixv.csv
+Huyện Dầu Tiếng does not exist in quochoixv.csv
+Huyện Phú Giáo does not exist in quochoixv.csv
+Thành phố Dĩ An has key 77 but has 147 for quochoixv.csv
+Thành phố Thuận An has key 78 but has 148 for quochoixv.csv
+Thành phố Thủ Dầu Một has key 79 but has 145 for quochoixv.csv
+Thị xã Bến Cát has key 80 but has 149 for quochoixv.csv
+Thị Xã Tân Uyên does not exist in quochoixv.csv
+Huyện Bù Đăng does not exist in quochoixv.csv
+Huyện Bù Đốp does not exist in quochoixv.csv
+Huyện Bù Gia Mập does not exist in quochoixv.csv
+Huyện Chơn Thành does not exist in quochoixv.csv
+Huyện Đồng Phú does not exist in quochoixv.csv
+Huyện Hớn Quản does not exist in quochoixv.csv
+Huyện Lộc Ninh does not exist in quochoixv.csv
+Huyện Phú Riềng does not exist in quochoixv.csv
+Thị xã Bình Long has key 90 but has 165 for quochoixv.csv
+Thị xã Đồng Xoài does not exist in quochoixv.csv
+Thị xã Phước Long does not exist in quochoixv.csv
+Huyện Bắc Bình does not exist in quochoixv.csv
+Huyện  Đức Linh does not exist in quochoixv.csv
+Huyện Hàm Tân does not exist in quochoixv.csv
+Huyện Hàm Thuận Bắc does not exist in quochoixv.csv
+Huyện Hàm Thuận Nam does not exist in quochoixv.csv
+Huyện Phú Quí does not exist in quochoixv.csv
+Huyện Tánh Linh does not exist in quochoixv.csv
+Huyện Tuy Phong has key 100 but has 176 for quochoixv.csv
+Thành phố Phan Thiết does not exist in quochoixv.csv
+Thị xã La Gi has key 102 but has 183 for quochoixv.csv
+Huyện Cái Nước has key 103 but has 189 for quochoixv.csv
+Huyện Đầm Dơi has key 104 but has 192 for quochoixv.csv
+Huyện Năm Căn does not exist in quochoixv.csv
+Huyện Ngọc Hiển does not exist in quochoixv.csv
+Huyện Thới Bình does not exist in quochoixv.csv
+Huyện Trần Văn Thời does not exist in quochoixv.csv
+Huyện U Minh does not exist in quochoixv.csv
+Thành phố Cà Mau has key 111 but has 186 for quochoixv.csv
+Huyện Cờ Đỏ does not exist in quochoixv.csv
+Huyện Phong Điền does not exist in quochoixv.csv
+Huyện Thới Lai does not exist in quochoixv.csv
+Quận Bình Thủy has key 116 but has 78 for quochoixv.csv
+Quận Cái Răng does not exist in quochoixv.csv
+Quận Ninh Kiều has key 118 but has 75 for quochoixv.csv
+Quận Ô Môn does not exist in quochoixv.csv
+Quận Thốt Nốt has key 120 but has 81 for quochoixv.csv
+Huyện Bảo Lạc has key 121 but has 195 for quochoixv.csv
+Huyện Bảo Lâm does not exist in quochoixv.csv
+Huyện Hạ Lang does not exist in quochoixv.csv
+Huyện Hà Quảng does not exist in quochoixv.csv
+Huyện Hòa An does not exist in quochoixv.csv
+Huyện Nguyên Bình does not exist in quochoixv.csv
+Huyện Phục Hòa does not exist in quochoixv.csv
+Huyện Quảng Uyên does not exist in quochoixv.csv
+Huyện Thạch An does not exist in quochoixv.csv
+Huyện Thông Nông does not exist in quochoixv.csv
+Huyện Trà Lĩnh does not exist in quochoixv.csv
+Huyện Trùng Khánh does not exist in quochoixv.csv
+Thành phố Cao Bằng has key 133 but has 200 for quochoixv.csv
+Huyện Buôn Đôn does not exist in quochoixv.csv
+Huyện Cư Kuin does not exist in quochoixv.csv
+Huyện Cư M'gar does not exist in quochoixv.csv
+Huyện EaHLeo does not exist in quochoixv.csv
+Huyện Ea Kar does not exist in quochoixv.csv
+Huyện Ea Súp does not exist in quochoixv.csv
+Huyện Krông Ana does not exist in quochoixv.csv
+Huyện Krông Bông has key 141 but has 209 for quochoixv.csv
+Huyện Krông Búk does not exist in quochoixv.csv
+Huyện Krông Năng does not exist in quochoixv.csv
+Huyện Krông Pắk does not exist in quochoixv.csv
+Huyện Lắk does not exist in quochoixv.csv
+Huyện MDrắk does not exist in quochoixv.csv
+Thành phố Buôn Ma Thuột does not exist in quochoixv.csv
+Thị xã Buôn Hồ has key 148 but has 215 for quochoixv.csv
+Huyện Cư Jút does not exist in quochoixv.csv
+Huyện Đắk GLong does not exist in quochoixv.csv
+Huyện Đắk Mil does not exist in quochoixv.csv
+Huyện Đắk RLấp does not exist in quochoixv.csv
+Huyện Đắk Song does not exist in quochoixv.csv
+Huyện Krông Nô has key 154 but has 220 for quochoixv.csv
+Huyện Tuy Đức does not exist in quochoixv.csv
+Thành phố Gia Nghĩa has key 156 but has 223 for quochoixv.csv
+Huyện Hòa Vang does not exist in quochoixv.csv
+Quận Cẩm Lệ has key 158 but has 72 for quochoixv.csv
+Quận Hải Châu has key 159 but has 67 for quochoixv.csv
+Quận Liên Chiểu has key 160 but has 69 for quochoixv.csv
+Quận Ngũ Hành Sơn has key 161 but has 71 for quochoixv.csv
+Quận Sơn Trà has key 162 but has 70 for quochoixv.csv
+Quận Thanh Khê has key 163 but has 68 for quochoixv.csv
+Huyện Điện Biên does not exist in quochoixv.csv
+Huyện Điện Biên Đông does not exist in quochoixv.csv
+Huyện Mường Ảng does not exist in quochoixv.csv
+Huyện Mường Chà does not exist in quochoixv.csv
+Huyện Mường Nhé does not exist in quochoixv.csv
+Huyện Nậm Pồ does not exist in quochoixv.csv
+Huyện Tủa Chùa does not exist in quochoixv.csv
+Huyện Tuần Giáo does not exist in quochoixv.csv
+Thành phố Điện Biên phủ does not exist in quochoixv.csv
+Thị xã Mường Lay has key 173 but has 230 for quochoixv.csv
+Huyện Cẩm Mỹ does not exist in quochoixv.csv
+Huyện Định Quán does not exist in quochoixv.csv
+Huyện Long Thành has key 176 but has 240 for quochoixv.csv
+Huyện Nhơn Trạch does not exist in quochoixv.csv
+Huyện Tân Phú does not exist in quochoixv.csv
+Huyện Thống Nhất does not exist in quochoixv.csv
+Huyện Trảng Bom does not exist in quochoixv.csv
+Huyện Vĩnh Cửu has key 181 but has 237 for quochoixv.csv
+Huyện Xuân Lộc does not exist in quochoixv.csv
+Thành phố Biên Hòa has key 183 but has 236 for quochoixv.csv
+Thành phố Long Khánh has key 184 but has 243 for quochoixv.csv
+Huyện Cao Lãnh does not exist in quochoixv.csv
+Huyện Hồng Ngự does not exist in quochoixv.csv
+Huyện Lai Vung does not exist in quochoixv.csv
+Huyện Lấp Vò does not exist in quochoixv.csv
+Huyện Tam Nông does not exist in quochoixv.csv
+Huyện Tân Hồng does not exist in quochoixv.csv
+Huyện Thanh Bình does not exist in quochoixv.csv
+Huyện Tháp Mười does not exist in quochoixv.csv
+Thành phố Cao Lãnh has key 194 but has 251 for quochoixv.csv
+Thành phố Sa Đéc has key 195 but has 255 for quochoixv.csv
+Thị xã Hồng Ngự does not exist in quochoixv.csv
+Huyện Chư Păh does not exist in quochoixv.csv
+Huyện Chư Prông does not exist in quochoixv.csv
+Huyện Chư Pưh does not exist in quochoixv.csv
+Huyện Chư Sê does not exist in quochoixv.csv
+Huyện Đăk Đoa does not exist in quochoixv.csv
+Huyện Đăk Pơ does not exist in quochoixv.csv
+Huyện Đức Cơ does not exist in quochoixv.csv
+Huyện Ia Grai does not exist in quochoixv.csv
+Huyện Ia Pa does not exist in quochoixv.csv
+Huyện KBang does not exist in quochoixv.csv
+Huyện Kông Chro does not exist in quochoixv.csv
+Huyện Krông Pa does not exist in quochoixv.csv
+Huyện Mang Yang does not exist in quochoixv.csv
+Huyện Phú Thiện does not exist in quochoixv.csv
+Thành phố PleiKu does not exist in quochoixv.csv
+Thị xã An Khê has key 212 but has 264 for quochoixv.csv
+Thị xã AYun Pa does not exist in quochoixv.csv
+Huyện Bắc Mê does not exist in quochoixv.csv
+Huyện Bắc Quang does not exist in quochoixv.csv
+Huyện Đồng Văn does not exist in quochoixv.csv
+Huyện Hoàng Su Phì does not exist in quochoixv.csv
+Huyện Mèo Vạc does not exist in quochoixv.csv
+Huyện Quản Bạ does not exist in quochoixv.csv
+Huyện Quang Bình does not exist in quochoixv.csv
+Huyện Vị Xuyên has key 221 but has 282 for quochoixv.csv
+Huyện Xín Mần does not exist in quochoixv.csv
+Huyện Yên Minh does not exist in quochoixv.csv
+Thành phố Hà Giang has key 224 but has 276 for quochoixv.csv
+Huyện Bình Giang has key 225 but has 315 for quochoixv.csv
+Huyện Cẩm Giàng does not exist in quochoixv.csv
+Huyện Gia Lộc has key 227 but has 312 for quochoixv.csv
+Huyện Kim Thành does not exist in quochoixv.csv
+Huyện Nam Sách does not exist in quochoixv.csv
+Huyện Ninh Giang does not exist in quochoixv.csv
+Huyện Thanh Hà does not exist in quochoixv.csv
+Huyện Thanh Miện does not exist in quochoixv.csv
+Huyện Tứ Kỳ does not exist in quochoixv.csv
+Thành phố Hải Dương has key 234 but has 309 for quochoixv.csv
+Thị xã Chí Linh does not exist in quochoixv.csv
+Thị xã Kinh Môn does not exist in quochoixv.csv
+Huyện Bình Lục does not exist in quochoixv.csv
+Huyện Duy Tiên does not exist in quochoixv.csv
+Huyện Kim Bảng does not exist in quochoixv.csv
+Huyện Lý Nhân does not exist in quochoixv.csv
+Huyện Thanh Liêm does not exist in quochoixv.csv
+Thành phố Phủ Lý has key 242 but has 287 for quochoixv.csv
+Bắc Từ Liêm does not exist in quochoixv.csv
+Ba Vì does not exist in quochoixv.csv
+Chương Mỹ does not exist in quochoixv.csv
+Đan Phượng does not exist in quochoixv.csv
+Đông Anh does not exist in quochoixv.csv
+Gia Lâm does not exist in quochoixv.csv
+Hoài Đức does not exist in quochoixv.csv
+Mê Linh does not exist in quochoixv.csv
+Mỹ Đức does not exist in quochoixv.csv
+Nam Từ Liêm does not exist in quochoixv.csv
+Phúc Thọ does not exist in quochoixv.csv
+Phú Xuyên does not exist in quochoixv.csv
+Quận Ba Đình has key 255 but has 4 for quochoixv.csv
+Quận Cầu Giấy has key 256 but has 7 for quochoixv.csv
+Quận Đống Đa has key 257 but has 5 for quochoixv.csv
+Quận Hà Đông has key 258 but has 15 for quochoixv.csv
+Quận Hai Bà Trưng has key 259 but has 6 for quochoixv.csv
+Quận Hoàng Mai has key 260 but has 10 for quochoixv.csv
+Quận Hoàn Kiếm has key 261 but has 1 for quochoixv.csv
+Quận Long Biên has key 262 but has 2 for quochoixv.csv
+Quận Tây Hồ has key 263 but has 12 for quochoixv.csv
+Quận Thanh Xuân has key 264 but has 9 for quochoixv.csv
+Quận Từ Liêm (cũ) does not exist in quochoixv.csv
+Quốc Oai does not exist in quochoixv.csv
+Sóc Sơn does not exist in quochoixv.csv
+Sơn Tây does not exist in quochoixv.csv
+Thạch Thất does not exist in quochoixv.csv
+Thanh Oai does not exist in quochoixv.csv
+Thanh Trì does not exist in quochoixv.csv
+Thường Tín does not exist in quochoixv.csv
+Ứng Hòa does not exist in quochoixv.csv
+Huyện Cẩm Xuyên does not exist in quochoixv.csv
+Huyện Can Lộc does not exist in quochoixv.csv
+Huyện Đức Thọ does not exist in quochoixv.csv
+Huyện Hương Khê does not exist in quochoixv.csv
+Huyện Hương Sơn does not exist in quochoixv.csv
+Huyện Kỳ Anh does not exist in quochoixv.csv
+Huyện Lộc Hà does not exist in quochoixv.csv
+Huyện Nghi Xuân does not exist in quochoixv.csv
+Huyện Thạch Hà has key 282 but has 298 for quochoixv.csv
+Huyện Vũ Quang does not exist in quochoixv.csv
+Thành phố Hà Tĩnh has key 284 but has 293 for quochoixv.csv
+Thị xã Hồng Lĩnh has key 285 but has 302 for quochoixv.csv
+Thị xã Kỳ Anh does not exist in quochoixv.csv
+Huyện Châu Thành A does not exist in quochoixv.csv
+Huyện Long Mỹ does not exist in quochoixv.csv
+Huyện Phụng Hiệp does not exist in quochoixv.csv
+Huyện Vị Thủy does not exist in quochoixv.csv
+Thành phố Ngã Bảy has key 292 but has 322 for quochoixv.csv
+Thành phố Vị Thanh has key 293 but has 318 for quochoixv.csv
+Thị xã Long Mỹ does not exist in quochoixv.csv
+Huyện Cao Phong does not exist in quochoixv.csv
+Huyện Đà Bắc does not exist in quochoixv.csv
+Huyện Kim Bôi has key 297 but has 331 for quochoixv.csv
+Huyện Kỳ Sơn has key 419 but has 445 for quochoixv.csv
+Huyện Lạc Sơn does not exist in quochoixv.csv
+Huyện Lạc Thủy does not exist in quochoixv.csv
+Huyện Lương Sơn does not exist in quochoixv.csv
+Huyện Mai Châu does not exist in quochoixv.csv
+Huyện Tân Lạc does not exist in quochoixv.csv
+Huyện Yên Thủy does not exist in quochoixv.csv
+Thành phố Hòa Bình has key 305 but has 326 for quochoixv.csv
+Huyện Ân Thi does not exist in quochoixv.csv
+Huyện Khoái Châu does not exist in quochoixv.csv
+Huyện Kim Động does not exist in quochoixv.csv
+Huyện Mỹ Hào does not exist in quochoixv.csv
+Huyện Phù Cừ does not exist in quochoixv.csv
+Huyện Tiên Lữ has key 311 but has 340 for quochoixv.csv
+Huyện Văn Giang does not exist in quochoixv.csv
+Huyện Văn Lâm does not exist in quochoixv.csv
+Huyện Yên Mỹ does not exist in quochoixv.csv
+Thành phố Hưng Yên has key 315 but has 336 for quochoixv.csv
+Huyện Cam Lâm does not exist in quochoixv.csv
+Huyện Diên Khánh does not exist in quochoixv.csv
+Huyện Khánh Sơn does not exist in quochoixv.csv
+Huyện Khánh Vĩnh does not exist in quochoixv.csv
+Huyện Vạn Ninh does not exist in quochoixv.csv
+Thành phố Cam Ranh does not exist in quochoixv.csv
+Thành phố Nha Trang has key 322 but has 348 for quochoixv.csv
+Thị xã Ninh Hòa has key 323 but has 346 for quochoixv.csv
+Huyện An Biên has key 324 but has 359 for quochoixv.csv
+Huyện An Minh does not exist in quochoixv.csv
+Huyện Giang Thành does not exist in quochoixv.csv
+Huyện Giồng Riềng does not exist in quochoixv.csv
+Huyện Gò Quao does not exist in quochoixv.csv
+Huyện Hòn Đất does not exist in quochoixv.csv
+Huyện Kiên Hải does not exist in quochoixv.csv
+Huyện Kiên Lương does not exist in quochoixv.csv
+Huyện Phú Quốc does not exist in quochoixv.csv
+Huyện Tân Hiệp has key 334 but has 355 for quochoixv.csv
+Huyện U Minh Thượng does not exist in quochoixv.csv
+Huyện Vĩnh Thuận does not exist in quochoixv.csv
+Thành phố Rạch Giá has key 337 but has 364 for quochoixv.csv
+Thị xã Hà Tiên does not exist in quochoixv.csv
+Huyện Đắk Glei does not exist in quochoixv.csv
+Huyện Đắk Hà has key 340 but has 375 for quochoixv.csv
+Huyện Đắk Tô does not exist in quochoixv.csv
+Huyện Ia H'Drai has key 342 but has 374 for quochoixv.csv
+Huyện Kon Plông does not exist in quochoixv.csv
+Huyện Kon Rẫy does not exist in quochoixv.csv
+Huyện Ngọc Hồi does not exist in quochoixv.csv
+Huyện Sa Thầy does not exist in quochoixv.csv
+Huyện Tu Mơ Rông does not exist in quochoixv.csv
+Thành phố Kon Tum has key 348 but has 370 for quochoixv.csv
+Huyện Mường Tè does not exist in quochoixv.csv
+Huyện Nậm Nhùn does not exist in quochoixv.csv
+Huyện Phong Thổ has key 351 but has 384 for quochoixv.csv
+Huyện Sìn Hồ does not exist in quochoixv.csv
+Huyện Tam Đường does not exist in quochoixv.csv
+Huyện Tân Uyên does not exist in quochoixv.csv
+Huyện Than Uyên does not exist in quochoixv.csv
+Thành phố Lai Châu has key 356 but has 380 for quochoixv.csv
+Huyện Cát Tiên does not exist in quochoixv.csv
+Huyện Đạ Huoai does not exist in quochoixv.csv
+Huyện Đam Rông does not exist in quochoixv.csv
+Huyện Đạ Tẻh does not exist in quochoixv.csv
+Huyện Di Linh does not exist in quochoixv.csv
+Huyện Đơn Dương does not exist in quochoixv.csv
+Huyện Đức Trọng does not exist in quochoixv.csv
+Huyện Lạc Dương does not exist in quochoixv.csv
+Huyện Lâm Hà has key 366 but has 412 for quochoixv.csv
+Thành phố Bảo Lộc has key 367 but has 415 for quochoixv.csv
+Thành phố Đà Lạt has key 368 but has 408 for quochoixv.csv
+Huyện Bắc Sơn has key 369 but has 388 for quochoixv.csv
+Huyện Bình Gia does not exist in quochoixv.csv
+Huyện Cao Lộc does not exist in quochoixv.csv
+Huyện Chi Lăng does not exist in quochoixv.csv
+Huyện Đình Lập does not exist in quochoixv.csv
+Huyện Hữu Lũng does not exist in quochoixv.csv
+Huyện Lộc Bình does not exist in quochoixv.csv
+Huyện Tràng Định does not exist in quochoixv.csv
+Huyện Văn Lãng does not exist in quochoixv.csv
+Huyện Văn Quan does not exist in quochoixv.csv
+Thành phố Lạng Sơn has key 379 but has 393 for quochoixv.csv
+Huyện Bắc Hà does not exist in quochoixv.csv
+Huyện Bảo Thắng does not exist in quochoixv.csv
+Huyện Bảo Yên does not exist in quochoixv.csv
+Huyện Bát Xát does not exist in quochoixv.csv
+Huyện Mường Khương does not exist in quochoixv.csv
+Huyện Si Ma Cai does not exist in quochoixv.csv
+Huyện Văn Bàn does not exist in quochoixv.csv
+Thành phố Lào Cai has key 387 but has 399 for quochoixv.csv
+Thị xã Sa Pa has key 388 but has 404 for quochoixv.csv
+Huyện Bến Lức does not exist in quochoixv.csv
+Huyện Cần Đước does not exist in quochoixv.csv
+Huyện Cần Giuộc does not exist in quochoixv.csv
+Huyện Đức Hòa does not exist in quochoixv.csv
+Huyện Đức Huệ has key 394 but has 420 for quochoixv.csv
+Huyện Mộc Hóa does not exist in quochoixv.csv
+Huyện Tân Hưng does not exist in quochoixv.csv
+Huyện Tân Thạnh does not exist in quochoixv.csv
+Huyện Tân Trụ does not exist in quochoixv.csv
+Huyện Thạnh Hóa does not exist in quochoixv.csv
+Huyện Thủ Thừa does not exist in quochoixv.csv
+Huyện Vĩnh Hưng does not exist in quochoixv.csv
+Thành phố Tân An has key 402 but has 424 for quochoixv.csv
+Thị xã Kiến Tường has key 403 but has 428 for quochoixv.csv
+Huyện Giao Thủy does not exist in quochoixv.csv
+Huyện Hải Hậu does not exist in quochoixv.csv
+Huyện Mỹ Lộc does not exist in quochoixv.csv
+Huyện Nam Trực has key 407 but has 439 for quochoixv.csv
+Huyện Nghĩa Hưng does not exist in quochoixv.csv
+Huyện Trực Ninh does not exist in quochoixv.csv
+Huyện Vụ Bản does not exist in quochoixv.csv
+Huyện Xuân Trường has key 411 but has 442 for quochoixv.csv
+Huyện Ý Yên does not exist in quochoixv.csv
+Thành phố Nam Định has key 413 but has 435 for quochoixv.csv
+Huyện Anh Sơn does not exist in quochoixv.csv
+Huyện Con Cuông does not exist in quochoixv.csv
+Huyện Diễn Châu does not exist in quochoixv.csv
+Huyện Đô Lương does not exist in quochoixv.csv
+Huyện Hưng Nguyên does not exist in quochoixv.csv
+Huyện Nam Đàn does not exist in quochoixv.csv
+Huyện Nghĩa Đàn does not exist in quochoixv.csv
+Huyện Nghi Lộc does not exist in quochoixv.csv
+Huyện Quế Phong does not exist in quochoixv.csv
+Huyện Quỳ Châu does not exist in quochoixv.csv
+Huyện Quỳ Hợp does not exist in quochoixv.csv
+Huyện Quỳnh Lưu does not exist in quochoixv.csv
+Huyện Tân Kỳ does not exist in quochoixv.csv
+Huyện Thanh Chương does not exist in quochoixv.csv
+Huyện Tương Dương does not exist in quochoixv.csv
+Huyện Yên Thành does not exist in quochoixv.csv
+Thành phố Vinh has key 431 but has 459 for quochoixv.csv
+Thị xã Cửa Lò has key 432 but has 463 for quochoixv.csv
+Thị xã Hoàng Mai has key 433 but has 456 for quochoixv.csv
+Thị xã Thái Hòa has key 434 but has 450 for quochoixv.csv
+Huyện Gia Viễn does not exist in quochoixv.csv
+Huyện Hoa Lư does not exist in quochoixv.csv
+Huyện Kim Sơn does not exist in quochoixv.csv
+Huyện Nho Quan does not exist in quochoixv.csv
+Huyện Yên Khánh does not exist in quochoixv.csv
+Huyện Yên Mô does not exist in quochoixv.csv
+Thành phố Ninh Bình has key 441 but has 466 for quochoixv.csv
+Thành phố Tam Điệp has key 442 but has 470 for quochoixv.csv
+Huyện Bác ái does not exist in quochoixv.csv
+Huyện Ninh Hải does not exist in quochoixv.csv
+Huyện Ninh Phước does not exist in quochoixv.csv
+Huyện Ninh Sơn does not exist in quochoixv.csv
+Huyện Thuận Bắc does not exist in quochoixv.csv
+Huyện Thuận Nam does not exist in quochoixv.csv
+Thành Phố Phan Rang - Tháp Chàm does not exist in quochoixv.csv
+Huyện Cẩm Khê does not exist in quochoixv.csv
+Huyện Đoan Hùng does not exist in quochoixv.csv
+Huyện Hạ Hòa does not exist in quochoixv.csv
+Huyện Lâm Thao does not exist in quochoixv.csv
+Huyện Phù Ninh does not exist in quochoixv.csv
+Huyện Tân Sơn does not exist in quochoixv.csv
+Huyện Thanh Ba has key 457 but has 491 for quochoixv.csv
+Huyện Thanh Sơn does not exist in quochoixv.csv
+Huyện Thanh Thủy does not exist in quochoixv.csv
+Huyện Yên Lập does not exist in quochoixv.csv
+Thành phố Việt Trì has key 461 but has 481 for quochoixv.csv
+Thị xã Phú Thọ has key 462 but has 487 for quochoixv.csv
+Huyện Đông Hòa does not exist in quochoixv.csv
+Huyện Đồng Xuân does not exist in quochoixv.csv
+Huyện Phú Hòa does not exist in quochoixv.csv
+Huyện Sông Hinh does not exist in quochoixv.csv
+Huyện Sơn Hòa does not exist in quochoixv.csv
+Huyện Tây Hòa does not exist in quochoixv.csv
+Huyện Tuy An does not exist in quochoixv.csv
+Thành phố Tuy Hòa has key 470 but has 499 for quochoixv.csv
+Thị xã Sông Cầu does not exist in quochoixv.csv
+Huyện Bố Trạch does not exist in quochoixv.csv
+Huyện Lệ Thủy does not exist in quochoixv.csv
+Huyện Minh Hoá does not exist in quochoixv.csv
+Huyện Quảng Ninh does not exist in quochoixv.csv
+Huyện Quảng Trạch does not exist in quochoixv.csv
+Huyện Tuyên Hoá does not exist in quochoixv.csv
+Thành phố Đồng Hới has key 478 but has 508 for quochoixv.csv
+Thị xã Ba Đồn does not exist in quochoixv.csv
+Huyện Bắc Trà My does not exist in quochoixv.csv
+Huyện Đại Lộc does not exist in quochoixv.csv
+Huyện Đông Giang does not exist in quochoixv.csv
+Huyện Duy Xuyên does not exist in quochoixv.csv
+Huyện Hiệp Đức does not exist in quochoixv.csv
+Huyện Nam Giang does not exist in quochoixv.csv
+Huyện Nam Trà My does not exist in quochoixv.csv
+Huyện Nông Sơn does not exist in quochoixv.csv
+Huyện Núi Thành does not exist in quochoixv.csv
+Huyện Phú Ninh does not exist in quochoixv.csv
+Huyện Phước Sơn does not exist in quochoixv.csv
+Huyện Quế Sơn does not exist in quochoixv.csv
+Huyện Tây Giang does not exist in quochoixv.csv
+Huyện Thăng Bình does not exist in quochoixv.csv
+Huyện Tiên Phước does not exist in quochoixv.csv
+Thành phố Hội An has key 495 but has 517 for quochoixv.csv
+Thành phố Tam Kỳ has key 496 but has 523 for quochoixv.csv
+Thị xã Điện Bàn has key 497 but has 511 for quochoixv.csv
+Huyện Ba Tơ does not exist in quochoixv.csv
+Huyện Bình Sơn has key 499 but has 529 for quochoixv.csv
+Huyện Lý Sơn does not exist in quochoixv.csv
+Huyện Minh Long does not exist in quochoixv.csv
+Huyện Mộ Đức does not exist in quochoixv.csv
+Huyện Nghĩa Hành does not exist in quochoixv.csv
+Huyện Sơn Hà does not exist in quochoixv.csv
+Huyện Sơn Tây does not exist in quochoixv.csv
+Huyện Sơn Tịnh does not exist in quochoixv.csv
+Huyện Tây Trà does not exist in quochoixv.csv
+Huyện Trà Bồng does not exist in quochoixv.csv
+Huyện Tư Nghĩa does not exist in quochoixv.csv
+Thành phố Quảng Ngãi has key 510 but has 534 for quochoixv.csv
+Thị Xã Đức Phổ does not exist in quochoixv.csv
+Huyện Ba Chẽ does not exist in quochoixv.csv
+Huyện Bình Liêu does not exist in quochoixv.csv
+Huyện Cô Tô does not exist in quochoixv.csv
+Huyện Đầm Hà does not exist in quochoixv.csv
+Huyện Hải Hà does not exist in quochoixv.csv
+Huyện Hoành Bồ does not exist in quochoixv.csv
+Huyện Tiên Yên does not exist in quochoixv.csv
+Huyện Vân Đồn does not exist in quochoixv.csv
+Thành phố Cẩm Phả does not exist in quochoixv.csv
+Thành phố Hạ Long has key 521 but has 542 for quochoixv.csv
+Thành phố Móng Cái has key 522 but has 547 for quochoixv.csv
+Thành phố Uông Bí has key 523 but has 544 for quochoixv.csv
+Thị xã Đông Triều does not exist in quochoixv.csv
+Thị xã Quảng Yên does not exist in quochoixv.csv
+Huyện Cam Lộ does not exist in quochoixv.csv
+Huyện Đa Krông does not exist in quochoixv.csv
+Huyện Gio Linh does not exist in quochoixv.csv
+Huyện Hải Lăng does not exist in quochoixv.csv
+Huyện Hướng Hóa does not exist in quochoixv.csv
+Huyện Triệu Phong does not exist in quochoixv.csv
+Huyện Vĩnh Linh has key 532 but has 555 for quochoixv.csv
+Thành phố Đông Hà has key 533 but has 560 for quochoixv.csv
+Thị xã Quảng Trị does not exist in quochoixv.csv
+Huyện Cù Lao Dung does not exist in quochoixv.csv
+Huyện Kế Sách does not exist in quochoixv.csv
+Huyện Long Phú does not exist in quochoixv.csv
+Huyện Mỹ Tú does not exist in quochoixv.csv
+Huyện Mỹ Xuyên does not exist in quochoixv.csv
+Huyện Thạnh Trị does not exist in quochoixv.csv
+Huyện Trần Đề does not exist in quochoixv.csv
+Thành phố Sóc Trăng has key 543 but has 565 for quochoixv.csv
+Thị xã Ngã Năm has key 544 but has 570 for quochoixv.csv
+Thị xã Vĩnh Châu has key 545 but has 573 for quochoixv.csv
+Huyện Bắc Yên does not exist in quochoixv.csv
+Huyện Mai Sơn does not exist in quochoixv.csv
+Huyện Mộc Châu has key 548 but has 584 for quochoixv.csv
+Huyện Mường La has key 549 but has 580 for quochoixv.csv
+Huyện Phù Yên does not exist in quochoixv.csv
+Huyện Quỳnh Nhai does not exist in quochoixv.csv
+Huyện Sông Mã does not exist in quochoixv.csv
+Huyện Sốp Cộp does not exist in quochoixv.csv
+Huyện Thuận Châu does not exist in quochoixv.csv
+Huyện Vân Hồ does not exist in quochoixv.csv
+Huyện Yên Châu does not exist in quochoixv.csv
+Thành phố Sơn La has key 557 but has 576 for quochoixv.csv
+Huyện Bến Cầu does not exist in quochoixv.csv
+Huyện Dương Minh Châu does not exist in quochoixv.csv
+Huyện Gò Dầu does not exist in quochoixv.csv
+Huyện Tân Biên does not exist in quochoixv.csv
+Huyện Tân Châu does not exist in quochoixv.csv
+Thành phố Tây Ninh has key 564 but has 592 for quochoixv.csv
+Thị xã Hòa Thành does not exist in quochoixv.csv
+Thị xã Trảng Bàng has key 566 but has 588 for quochoixv.csv
+Huyện Đông Hưng has key 567 but has 600 for quochoixv.csv
+Huyện Hưng Hà does not exist in quochoixv.csv
+Huyện Kiến Xương does not exist in quochoixv.csv
+Huyện Quỳnh Phụ does not exist in quochoixv.csv
+Huyện Thái Thụy does not exist in quochoixv.csv
+Huyện Tiền Hải does not exist in quochoixv.csv
+Huyện Vũ Thư has key 573 but has 597 for quochoixv.csv
+Thành phố Thái Bình has key 574 but has 602 for quochoixv.csv
+Huyện Đại Từ has key 575 but has 605 for quochoixv.csv
+Huyện Định Hóa does not exist in quochoixv.csv
+Huyện Đồng Hỷ does not exist in quochoixv.csv
+Huyện Phú Bình does not exist in quochoixv.csv
+Huyện Phú Lương does not exist in quochoixv.csv
+Huyện Võ Nhai does not exist in quochoixv.csv
+Thành phố Sông Công has key 581 but has 611 for quochoixv.csv
+Thành phố Thái Nguyên has key 582 but has 608 for quochoixv.csv
+Thị xã Phổ Yên does not exist in quochoixv.csv
+Huyện Bá Thước does not exist in quochoixv.csv
+Huyện Cẩm Thủy does not exist in quochoixv.csv
+Huyện Đông Sơn does not exist in quochoixv.csv
+Huyện Hà Trung does not exist in quochoixv.csv
+Huyện Hậu Lộc does not exist in quochoixv.csv
+Huyện Hoằng Hóa does not exist in quochoixv.csv
+Huyện Lang Chánh does not exist in quochoixv.csv
+Huyện Mường Lát does not exist in quochoixv.csv
+Huyện Nga Sơn does not exist in quochoixv.csv
+Huyện Ngọc Lặc does not exist in quochoixv.csv
+Huyện Như Thanh does not exist in quochoixv.csv
+Huyện Như Xuân does not exist in quochoixv.csv
+Huyện Nông Cống does not exist in quochoixv.csv
+Huyện Quảng Xương does not exist in quochoixv.csv
+Huyện Quan Hóa has key 598 but has 633 for quochoixv.csv
+Huyện Quan Sơn does not exist in quochoixv.csv
+Huyện Thạch Thành does not exist in quochoixv.csv
+Huyện Thiệu Hóa does not exist in quochoixv.csv
+Huyện Thọ Xuân does not exist in quochoixv.csv
+Huyện Thường Xuân does not exist in quochoixv.csv
+Huyện Tĩnh Gia does not exist in quochoixv.csv
+Huyện Triệu Sơn has key 605 but has 629 for quochoixv.csv
+Huyện Vĩnh Lộc does not exist in quochoixv.csv
+Huyện Yên Định does not exist in quochoixv.csv
+Thành phố Thanh Hóa has key 608 but has 614 for quochoixv.csv
+Thị xã Bỉm Sơn has key 609 but has 618 for quochoixv.csv
+Thị xã Sầm Sơn does not exist in quochoixv.csv
+Huyện A Lưới does not exist in quochoixv.csv
+Huyện Nam Đông does not exist in quochoixv.csv
+Huyện Phú Lộc does not exist in quochoixv.csv
+Huyện Phú Vang has key 615 but has 647 for quochoixv.csv
+Huyện Quảng Điền does not exist in quochoixv.csv
+Thành phố Huế has key 617 but has 645 for quochoixv.csv
+Thị xã Hương Thủy does not exist in quochoixv.csv
+Thị xã Hương Trà has key 619 but has 641 for quochoixv.csv
+Huyện Cái Bè does not exist in quochoixv.csv
+Huyện Cai Lậy does not exist in quochoixv.csv
+Huyện Chợ Gạo does not exist in quochoixv.csv
+Huyện Gò Công Đông does not exist in quochoixv.csv
+Huyện Gò Công Tây does not exist in quochoixv.csv
+Huyện Tân Phú Đông does not exist in quochoixv.csv
+Huyện Tân Phước does not exist in quochoixv.csv
+Thành phố Mỹ Tho has key 628 but has 653 for quochoixv.csv
+Thị xã Cai Lậy has key 629 but has 650 for quochoixv.csv
+Thị xã Gò Công has key 630 but has 656 for quochoixv.csv
+Huyện An Dương does not exist in quochoixv.csv
+Huyện Bạch Long Vĩ does not exist in quochoixv.csv
+Huyện Cát Hải does not exist in quochoixv.csv
+Huyện Kiến Thụy does not exist in quochoixv.csv
+Huyện Thủy Nguyên does not exist in quochoixv.csv
+Huyện Tiên Lãng does not exist in quochoixv.csv
+Huyện Vĩnh Bảo does not exist in quochoixv.csv
+Quận Đồ Sơn does not exist in quochoixv.csv
+Quận Dương Kinh does not exist in quochoixv.csv
+Quận Hải An does not exist in quochoixv.csv
+Quận Hồng Bàng has key 642 but has 52 for quochoixv.csv
+Quận Kiến An has key 643 but has 62 for quochoixv.csv
+Quận Lê Chân does not exist in quochoixv.csv
+Quận Ngô Quyền has key 645 but has 57 for quochoixv.csv
+Huyện Bình Chánh does not exist in quochoixv.csv
+Huyện Cần Giờ does not exist in quochoixv.csv
+Huyện Củ Chi has key 648 but has 50 for quochoixv.csv
+Huyện Hóc Môn does not exist in quochoixv.csv
+Huyện Nhà Bè does not exist in quochoixv.csv
+Quận 1 has key 651 but has 32 for quochoixv.csv
+Quận 10 has key 652 but has 38 for quochoixv.csv
+Quận 11 does not exist in quochoixv.csv
+Quận 12 does not exist in quochoixv.csv
+Quận 2 does not exist in quochoixv.csv
+Quận 3 does not exist in quochoixv.csv
+Quận 4 has key 657 but has 46 for quochoixv.csv
+Quận 5 has key 658 but has 35 for quochoixv.csv
+Quận 6 has key 659 but has 44 for quochoixv.csv
+Quận 7 does not exist in quochoixv.csv
+Quận 8 does not exist in quochoixv.csv
+Quận 9 does not exist in quochoixv.csv
+Quận Bình Tân has key 663 but has 42 for quochoixv.csv
+Quận Bình Thạnh does not exist in quochoixv.csv
+Quận Gò Vấp does not exist in quochoixv.csv
+Quận Phú Nhuận does not exist in quochoixv.csv
+Quận Tân Bình has key 667 but has 40 for quochoixv.csv
+Quận Tân Phú does not exist in quochoixv.csv
+Quận Thủ Đức does not exist in quochoixv.csv
+Huyện Càng Long does not exist in quochoixv.csv
+Huyện Cầu Kè does not exist in quochoixv.csv
+Huyện Cầu Ngang does not exist in quochoixv.csv
+Huyện Duyên Hải does not exist in quochoixv.csv
+Huyện Tiểu Cần does not exist in quochoixv.csv
+Huyện Trà Cú does not exist in quochoixv.csv
+Thành phố Trà Vinh has key 677 but has 661 for quochoixv.csv
+Thị Xã Duyên Hải does not exist in quochoixv.csv
+Huyện Chiêm Hóa does not exist in quochoixv.csv
+Huyện Hàm Yên has key 680 but has 673 for quochoixv.csv
+Huyện Lâm Bình does not exist in quochoixv.csv
+Huyện Nà Hang does not exist in quochoixv.csv
+Huyện Sơn Dương does not exist in quochoixv.csv
+Huyện Yên Sơn does not exist in quochoixv.csv
+Thành phố Tuyên Quang has key 685 but has 675 for quochoixv.csv
+Huyện Bình Tân does not exist in quochoixv.csv
+Huyện Long Hồ does not exist in quochoixv.csv
+Huyện Mang Thít does not exist in quochoixv.csv
+Huyện Tam Bình does not exist in quochoixv.csv
+Huyện Trà Ôn does not exist in quochoixv.csv
+Huyện Vũng Liêm does not exist in quochoixv.csv
+Thành phố Vĩnh Long has key 692 but has 677 for quochoixv.csv
+Thị xã Bình Minh has key 693 but has 681 for quochoixv.csv
+Huyện Bình Xuyên does not exist in quochoixv.csv
+Huyện Lập Thạch does not exist in quochoixv.csv
+Huyện Sông Lô has key 696 but has 689 for quochoixv.csv
+Huyện Tam Đảo does not exist in quochoixv.csv
+Huyện Tam Dương does not exist in quochoixv.csv
+Huyện Vĩnh Tường does not exist in quochoixv.csv
+Huyện Yên Lạc does not exist in quochoixv.csv
+Thành phố Phúc Yên does not exist in quochoixv.csv
+Thành phố Vĩnh Yên has key 702 but has 685 for quochoixv.csv
+Huyện Lục Yên does not exist in quochoixv.csv
+Huyện Mù Cang Chải does not exist in quochoixv.csv
+Huyện Trạm Tấu does not exist in quochoixv.csv
+Huyện Trấn Yên does not exist in quochoixv.csv
+Huyện Văn Chấn does not exist in quochoixv.csv
+Huyện Văn Yên does not exist in quochoixv.csv
+Huyện Yên Bình does not exist in quochoixv.csv
+Thành phố Yên Bái has key 710 but has 694 for quochoixv.csv
+Thị xã Nghĩa Lộ does not exist in quochoixv.csv

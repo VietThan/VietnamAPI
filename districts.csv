@@ -1,0 +1,703 @@
+inputDistricKey,strDistricts
+1,Quận Hoàn Kiếm
+2,Quận Long Biên
+3, Huyện Đông Anh
+4,Quận Ba Đình
+5,Quận Đống Đa
+6,Quận Hai Bà Trưng
+7,Quận Cầu Giấy
+8,Quận Nam Từ Liêm
+9,Quận Thanh Xuân
+10,Quận Hoàng Mai
+11,Huyện Gia Lâm
+12,Quận Tây Hồ
+13,Quận Bắc Từ Liêm
+14,Huyện Hoài Đức
+15,Quận Hà Đông
+16,Huyện Thanh Trì
+17,Huyện Thanh Oai
+18,Thị xã Sơn Tây
+19, Huyện Phúc Thọ
+20, Huyện Ba Vì
+21, Huyện Đan Phương
+22,Huyện Quốc Oai
+23, Huyện Chương Mỹ
+24,Huyện Thạch Thất
+25,Huyện Ứng Hoà
+26,Huyện Mỹ Đức
+27,Huyện Phú Xuyên
+28,Huyện Thường Tín
+29,Huyện Sóc Sơn
+30, Huyện Mê Linh
+31,Thành phố Thủ Đức
+32,Quận 1
+33, Quận 3
+34, Quận Bình Thạnh
+35,Quận 5
+36, Quận 8
+37, Quận 11
+38,Quận 10
+39, Quận 12
+40,Quận Tân Bình
+41, Quận Tân Phú
+42,Quận Bình Tân
+43,Quận Phú Nhuận Gò Vấp
+44,Quận 6
+45, Huyện Bình Chánh
+46,Quận 4
+47, Quận 7
+48, Huyện Nhà Bè
+49, Huyện Cần Giờ
+50,Huyện Củ Chi
+51, Huyện Hóc Môn
+52,Quận Hồng Bàng
+53, Quận Lê Chân
+54, Huyện Thủy Nguyên
+55, Cát Hải
+56, Bạch Long Vĩ
+57,Quận Ngô Quyền
+58, Quận Hải An
+59, Quận Đồ Sơn
+60, Huyện An Dương
+61, Huyện Kiến Thụy
+62,Quận Kiến An
+63, Dương Kinh
+64, Huyện An Lão
+65, Huyện Tiên Lãng
+66, Huyện Vĩnh Bảo
+67,Quận Hải Châu
+68,Quận Thanh Khê
+69,Quận Liên Chiểu
+70,Quận Sơn Trà
+71,Quận Ngũ Hành Sơn
+72,Quận Cẩm Lệ
+73,Huyện Hoà Vang
+74,Huyện Hoàng Sa
+75,Quận Ninh Kiều
+76, Quận Cái Răng
+77, Huyện Phong Điền
+78,Quận Bình Thủy
+79, Quận Ô Môn
+80, Huyện Thới Lai
+81,Quận Thốt Nốt
+82, Huyện Vĩnh Thạnh
+83, Huyện Cờ Đỏ
+84,Thành phố Long Xuyên
+85, Huyện Thoại Sơn
+86, Huyện Châu Thành
+87,Thị xã Tân Châu
+88, Huyện Chợ Mới
+89, Huyện Phú Tân
+90,Thành phố Châu Đốc
+91, Huyện An Phú
+92, Huyện Tịnh Biên
+93, Huyện Tri Tôn
+94, Huyên Châu Phú
+95,Thành phố Vũng Tàu
+96, Huyện Long Điền
+97, Huyện Đất Đỏ
+98, Huyện Côn Đảo
+99,Thành phố Bà Rịa
+100, Thị xã Phú Mỹ
+101, Huyện Châu Đức
+102, Huyện Xuyên Mộc
+103,Thành phố Bạc Liêu
+104, Huyện Vĩnh Lợi
+105, Huyện Hòa Bình
+106,Thị xã Giá Rai
+107, Huyện Phước Long
+108, Huyện Hồng Dân
+109, Huyện Đông Hải
+110,Huyện Ba Bể
+111, Huyện Ngân Sơn
+112, Huyện Na Rì
+113, Huyện Pác Nặm
+114,Thành phố Bắc Kạn
+115, Huyện Bạch Thông
+116, Huyện Chợ Đồn
+117, Huyện Chợ Mới
+118,Huyện Sơn Động
+119, Huyện Lục Ngạn
+120, Huyện Lục Nam
+121,Thành phố Bắc Giang
+122, Huyện Yên Thế
+123, Huyện Lạng Giang
+124, Huyên Yên Dũng
+125,Huyện Tân Yên
+126, Huyện Hiệp Hòa
+127, Huyện Việt Yên
+128,Thành phố Bắc Ninh
+129, Huyện Quế Võ
+130,Thị xã Từ Sơn
+131, Huyện Tiên Du
+132, Huyện Yên Phong
+133,Huyện Lương Tài
+134, Huyện Gia Bình
+135, Huyện Thuận Thành
+136,Thành phố Bến Tre
+137, Huyện Châu Thành
+138, Huyện Bình Đại
+139,Huyện Giồng Trôm
+140, Huyện Ba Trì
+141,Huyện Thạnh Phú
+142, Huyện Chợ Lách
+143, Huyện Mò Cày Nam
+144, Huyện Mò Cày Bắc
+145,Thành phố Thủ Dầu Một
+146, Thị xã Tân Uyên
+147,Thành phố Dĩ An
+148,Thành phố Thuận An
+149,Thị xã Bến Cát
+150, Huyện Dầu Tiếng
+151, Huyện Bàu Bàng
+152, Huyện Phú Giáo
+153, Huyện Bắc Tân Uyên
+154,Thành phố Quy Nhơn
+155, Huyện Tuy Phước
+156, Huyện Vân Canh
+157, Huyện Tây Sơn
+158, Huyện Vĩnh Thạnh
+159,Thị xã An Nhơn
+160, Huyện Phù Cá
+161, Huyện Hòa Ân
+162,Thị xã Hoài Nhơn
+163, Huyện An Lão
+164, Huyện Phù Mỹ
+165,Thị xã Bình Long
+166, Huyện Bù Đốp
+167, Huyện Bù Gia Mập
+168, Huyện Chơn Thành
+169, Huyện Hớn Quản
+170, Huyện Lộc Ninh
+171,Thành phố Đồng Xoài
+172, thị xã Phước Long
+173, Huyện Đồng Phú
+174, Huyện Phú Riềng
+175, Huyện Bù Đăng
+176,Huyện Tuy Phong
+177, Huyện Bắc Bình
+178, Huyện Phú Quý
+179,Thành phố Than Thiết
+180, Huyện Hàm Thuận Bắc
+181, Huyện Hàm Thuận Nam
+182, Huyện Hàm Tân
+183,Thị xã La Gi
+184, Huyện Đức Linh
+185, Huyện Tánh Linh
+186,Thành phố Cà Mau
+187, Huyện Thới Bình
+188, Huyện U Minh
+189,Huyện Cái Nước
+190, Huyện Phú Tân
+191, Huyện Trần Văn Thời
+192,Huyện Đầm Dơi
+193, Huyện Năm Căn
+194, Huyện Ngọc Hiền
+195,Huyện Bảo Lạc
+196, Huyện Bảo Lâm
+197, Huyện Nguyên Bình
+198, Huyện Hà Quảng
+199, Huyện Hòa An
+200,Thành phố Cao Bằng
+201, Huyện Quảng Hòa
+202, Huyện Trùng Khánh
+203, Huyện Hạ Lang
+204, Huyện Thạch An
+205,Thành phố Buôm Ma Thuột
+206, Huyện Buôn Đôn
+207, Huyện Ea Súp
+208, Huyện Cư M'Gar
+209,Huyện Krông Bông
+210, Huyện Krông Pắc
+211, Huyện Lắk
+212, Huyện M'Drắk
+213, Huyện Cư Kuin
+214, Huyện Krông Ana
+215,Thị xã Buôn Hồ
+216, Huyện Ea H'Leo
+217, Huyện Krông Búk
+218, Huyện Krông Năng
+219, Huyện Ea Kar
+220,Huyện Krông Nô
+221, Huyện Cư Jút
+222, Huyện Đắk Mil
+223,Thành phố Gia Nghĩa
+224, Huyện Đắk Glong
+225, Huyện Đắk R'Lấp
+226,Thành phố Điện Biên Phủ
+227, Huyện Điện Biên Đông
+228, Huyện Mường Ảng
+229, Huyện Điện Biên
+230,Thị xã Mường Lay
+231, Huyện Mường Chà
+232, Huyện Nậm Pồ
+233, Huyện Mường Nhé
+234, Huyện Tuần Giáo
+235, Huyện Tùa Chùa
+236,Thành phố Biên Hòa
+237,Huyện Vĩnh Cửu
+238, Huyện Trảng Bom
+239, Huyện Thống Nhất
+240,Huyện Long Thành
+241, Huyện Nhơn Trạch
+242, Huyện Cẩm Mỹ
+243,Thành phố Long Khánh
+244, Huyện Xuân Lộc
+245, Huyện Định Quán
+246, Huyện Tân Phú
+247,Thành phố Hồng Ngự
+248, Huyện Tân Hồng
+249, Huyện Hồng Ngự
+250, Huyện Tam Nông
+251,Thành phố Cao Lãnh
+252, Huyện Thanh Bình
+253, Huyện Cao Lãnh
+254, Huyện Tháp Mười
+255,Thành phố Sa Đéc
+256, Huyện Lấp Vò
+257, Huyện Lai Vung
+258, Huyện Châu Thành
+259,Thành phố Pleiku
+260, Huyện Chư Pawh
+261, Huyện Ia Grai
+262, Huyện Đức Cơ
+263, Huyện Chư Prông
+264,Thị xã An Khê
+265, Huyện Kbang
+266, Huyện Kông Chro
+267, Huyện Đak Pơ
+268, Huyện Mang Yang
+269, Huyện Đak Hoa
+270,Thị xã Ayun Pa
+271, Huyện Krông Pa
+272, Huyện Ia Pa
+273, Huyện Phú Thiện
+274, Huyện Chư Sê
+275, Huyện Chư Pưh
+276,Thành phố Hà Giang
+277, Huyện Đồng Văn
+278, Huyện Mèo Vạc
+279, Huyện Yên Minh
+280, Huyện Quản Bạ
+281, Huyện Bắc Mê
+282,Huyện Vị Xuyên
+283, Huyện Bắc Quang
+284, Huyện Quang Bình
+285, Huyện Hoàng Su Phi
+286, Huyện Xín Mần
+287,Thành phố Phủ Lý
+288, Huyện Thanh Liêm
+289, Huyện Bình Lục
+290,Thị xã Duy Tiên
+291, Huyện Kim Bảng
+292, Huyện Lý Nhân
+293,Thành phố Hà Tĩnh
+294, Thị xã Kỳ Anh
+295, Huyện Kỳ Anh
+296, Huyện Cầm Xuyên
+297, Huyện Hương Khê
+298,Huyện Thạch Hà
+299, Huyện Can Lộc
+300, Huyện Nghi Xuân
+301, Huyện Lộc Hà
+302,Thị xã Hồng Lĩnh
+303, Huyện Đức Thọ
+304, Huyện Hương Sơn
+305, Huyện Vũ Quang
+306,Thành phố Chí Linh
+307, Thị xã Kinh Môn
+308, Huyện Kim Thành
+309,Thành phố Hải Dương
+310, Huyện Nam Sách
+311, Huyện Thanh Hà
+312,Huyện Gia Lộc
+313, Huyện Tứ Kỳ
+314, Huyện Cầm Giàng
+315,Huyện Bình Giang
+316, Huyện Thanh Miện
+317, Huyện Ninh Giang
+318,Thành phố Vị Thanh
+319, Huyện Vị Thủy
+320, Huyện Châu Thành
+321, Huyện Thành A
+322,Thành phố Ngã Bảy
+323, Thị xã Long Mỹ
+324, Huyện Phụng Hiệp
+325, Huyện Long Mỹ
+326,Thành phố Hòa Bình
+327, Huyện Đà Bắc
+328, Huyện Lương Sơn
+329, Huyện Mai Châu
+330, Huyện Tân Lạc
+331,Huyện Kim Bôi
+332, Huyện Cao Phong
+333, Huyện Lạc Sơn
+334, Huyện Lạc Thủy
+335, Huyện Yên Thủy
+336,Thành phố Hưng Yên
+337, Huyện Kim Động
+338, Huyện Khoái Châu
+339, Huyện Yên Mỹ
+340,Huyện Tiên Lữ
+341, Huyện Phù Cừ
+342, Huyện Ân Thi
+343,Thị xã Mỹ Hào
+344, Huyện Văn Giang
+345, Huyện Văn Lâm
+346,Thị xã Ninh Hòa
+347, Huyện Vạn Ninh
+348,Thành phố Nha Trang
+349,Thành Phố Cam Ranh
+350, Huyện Khánh Vĩnh
+351, Huyện Diên Khánh
+352, Huyện Cam Lâm
+353, Huyện Khánh Sơn
+354, Huyện Trường Sa
+355,Huyện Tân Hiệp
+356, Huyện Kiên Hải
+357, Huyện Giồng Riềng
+358, Huyện Gò Quao
+359,Huyện An Biên
+360, Huyện An Minh
+361, Huyện Vĩnh Thuận
+362, Huyện U Minh Thượng
+363, Huyện Châu Thành
+364,Thành phố Rạch Giá
+365, Thành phố Hà Tiên
+366, Thành phố Phú Quốc
+367, Huyện Kiên Lương
+368, Huyện Hòn Đất
+369, Huyện Giang Thành
+370,Thành phố Kon Tum
+371, Huyện Kon Plông
+372, Huyện Kon Rẫy
+373, Huyện Sa Thầy
+374,Huyện Ia H'Drai
+375,Huyện Đắk Hà
+376, Huyện Đắk Tô
+377, Huyện Tu Mơ Rông
+378, Huyện Ngọc Hồi
+379, Huyện Đắk Glei
+380,Thành phố Lai Châu
+381, Huyện Than Uyên
+382, Huyện Tân Uyên
+383, Huyện Tam Đường
+384,Huyện Phong Thổ
+385, Huyện Mường Tè
+386, Huyện Sin Hồ
+387, Huyện Nậm Nhùn
+388,Huyện Bắc Sơn
+389, Huyện Bình Gia
+390, Huyện Văn Quan
+391, Huyện Chi Lăng
+392, Huyện Hữu Lũng
+393,Thành phố Lạng Sơn
+394, Huyện Tràng Định
+395, Huyện Văn Lãng
+396, Huyện Cao Lộc
+397, Huyện Lộc Bình
+398, Huyện Đình Lập
+399,Thành phố Lào Cai
+400, Huyện Bát Xát
+401, Huyện Bắc Hà
+402, Huyện Mường Khương
+403, Huyện Si Ma Cai
+404,Thị xã Sa Pa
+405, Huyện Bảo Thắng
+406, Huyện Bảo Yên
+407, Huyện Văn Bàn
+408,Thành phố Đà Lạt
+409, Huyện Lạc Dương
+410, Huyện Đơn Dương
+411, Huyện Đức Trọng
+412,Huyện Lâm Hà
+413, Huyện Đam Rông
+414, Huyện Di Linh
+415,Thành phố Bảo Lộc
+416, Huyện Bảo Lâm
+417, Huyện Đạ Huoai
+418, Huyện Đạ Tẻh
+419, Huyện Cát Tiên
+420,Huyện Đức Huệ
+421, Huyện Đức Hòa
+422, Huyện Bến Lức
+423, Huyện Tân Trụ
+424,Thành phố Tân An
+425, Huyện Châu Thành
+426, Huyện Cần Đước
+427, Huyện Cần Giuộc
+428,Thị xã Kiến Tường
+429, Huyện Thủ Thừa
+430, Huyện Thạnh Hóa
+431, Huyện Tân Thạnh
+432, Huyện Mộc Hóa
+433, Huyện Vĩnh Hưng
+434, Huyện Tân Hưng
+435,Thành phố Nam Định
+436, Huyện Mỹ Lộc
+437, Huyện Vụ Bản
+438, Huyện Ý Yên
+439,Huyện Nam Trực
+440, Huyện Nghĩa Hưng
+441, Huyện Hải Hậu
+442,Huyện Xuân Trường
+443, Huyện Giao Thủy
+444, Huyện Trực Ninh
+445,Huyện Kỳ Sơn
+446, Huyện Tương Dương
+447, Huyện Con Cuông
+448, Huyện Anh Sơn
+449, Huyện Đô Lương
+450,Thị xã Thái Hòa
+451, Huyện Quế Phong
+452, Huyện Quỳ Châu
+453, Huyện Quỳ Hợp
+454, Huyện Nghĩa Đàn
+455, Huyện Tân Kỳ
+456,Thị xã Hoàng Mai
+457, Huyện Yên Thành
+458, Huyện Quỳnh Lưu
+459,Thành phố Vinh
+460, Huyện Thanh Chương
+461, Huyện Nam Đàn
+462, Huyện Hưng Nguyên
+463,Thị xã Cửa Lò
+464, Huyện Diễn Châu
+465, Huyện Nghi Lộc
+466,Thành phố Ninh Bình
+467, Huyện  Nho Quan
+468, Huyện Gia Viễn
+469, Huyện Hoa Lư
+470,Thành phố Tam Điệp
+471, Huyện Kim Sơn
+472, Huyện Yên Khánh
+473, Huyện Yên Mô
+474,Thành phố Phan Rang - Tháp Chàm
+475, Huyện Ninh Hải
+476, Huyện Thuận Bắc
+477,Huyện Bác Ái
+478, Huyện Ninh Sơn
+479, Huyện Thuận Nam
+480, Huyện Ninh Phước
+481,Thành phố Việt Trì
+482, Huyện Tam Nông
+483, Huyện Tân Sơn
+484, Huyện Thanh Sơn
+485, Huyện Thanh Thủy
+486, Huyện Yên Lập
+487,Thị xã Phú Thọ
+488, Huyện Phủ Ninh
+489, Huyện Lâm Thao
+490, Huyện Đoan Hùng
+491,Huyện Thanh Ba
+492, Huyện Hạ Hòa
+493, Huyện Cầm Khê
+494,Thị xã Đông Hòa
+495, Huyện Phú Hòa
+496, Huyện Tây Hòa
+497, Huyện Sơn Hòa
+498, Huyện Sông Hinh
+499,Thành phố Tuy Hòa
+500, Thị xã Sông Cầu
+501, Huyện Đồng Xuân
+502, Huyện Tuy An
+503,ThỊ xã Ba Đồn
+504, Huyện Minh Hóa
+505, Huyện Tuyên Hóa
+506, Huyện Quảng Trạch
+507, Huyện Quảng Ninh
+508,Thành phố Đồng Hới
+509, Huyện Lê Thủy
+510, Huyện Bố Trạch
+511,Thị xã Điện Bàn
+512, Huyện Đại Lộc
+513, Huyện Đông Giang
+514, Huyện Tây Giang
+515, Huyện Nam Giang
+516, Huyện Phước Sơn
+517,Thành phố Hội An
+518, Huyện Duy Xuyên
+519, Huyện Quế Sơn
+520, Huyện Nông Sơn
+521, Huyện Thăng Bình
+522, Huyện Hiệp Đức
+523,Thành phố Tam Kỳ
+524, Huyện Núi Thành
+525, Huyện Tiên Phước
+526, Huyện Nam Trà My
+527, Huyện Bắc Trà My
+528, Huyện Phú Ninh
+529,Huyện Bình Sơn
+530, Huyện Sơn Tịnh
+531, Huyện Trà Bồng
+532, Huyện Sơn Tây
+533, Huyện Sơn Hà
+534,Thành phố Quảng Ngãi
+535, Huyện Tư Nghĩa
+536, Huyện Nghĩa Hành
+537, Huyện Lý Sơn
+538,Thị xã Đức Phổ
+539, Huyện Mộ Đức
+540, Huyện Ba Tơ
+541, Huyện Minh Long
+542,Thành phố Hạ Long
+543, Thành phố Cẩm Phả
+544,Thành phố Uông Bí
+545, Thị xã Dông Triều
+546, Thị xã Quảng Yên
+547,Thành phố Móng Cái
+548, Huyện Vân Đồn
+549, Huyện Cô Tô
+550, Huyện Tiên Yên
+551, Huyện Đầm Hà
+552, Huyện Hải Hà
+553, Huyện Bình Liêu
+554, Huyện Ba Chẽ
+555,Huyện Vĩnh Linh
+556, Huyện Gio Linh
+557, Huyện Đakrông
+558, Huyện Hướng Hóa
+559, Huyện Đảo Cồn Cỏ
+560,Thành phố Đông Hà
+561, Thị xã Quảng Trị
+562, Huyện Triệu Phong
+563, Huyện Cam Lộ
+564, Huyện Hải Lăng
+565,Thành phố Sóc Trăng
+566, Huyện Châu Thành
+567, Huyện Kế Sách
+568, Huyện Long Phú
+569, Huyện Cù Lao Dung
+570,Thị xã Ngã Năm
+571, Huyện Mỹ Tú
+572, Huyện Thạnh Trị
+573,Thị xã Vĩnh Châu
+574, Huyện Mỹ Xuyên
+575, Huyện Trần Đề
+576,Thành phố Sơn La
+577, Huyện Thuận Châu
+578, Huyện Mai Sơn
+579, Huyện Yên Châu
+580,Huyện Mường La
+581, Huyện Sông Mã
+582, Huyện Sốp Cộp
+583, Huyện Quỳnh Nhai
+584,Huyện Mộc Châu
+585, Huyện Vân Hồ
+586, Huyện Phù Yên
+587, Huyện Bắc Yên
+588,Thị xã Trảng Bàng
+589, Huyện Bến Cầu
+590, Huyện Gò Dầu
+591, Huyện Châu Thành
+592,Thành phố Tây Ninh
+593, Thị xã Hòa Thành
+594, Huyện Tân Biên
+595, Huyện Tân Châu
+596, Huyện Dương Minh Châu
+597,Huyện Vũ Thư
+598, Huyện Hưng Hà
+599, Huyện Quỳnh Phụ
+600,Huyện Đông Hưng
+601, Huyện Thái Thụy
+602,Thành phố Thái Bình
+603, Huyện Tiền Hải
+604, Huyện Kiến Xương
+605,Huyện Đại Từ
+606, Huyện Định Hóa
+607, Huyện Phú Lương
+608,Thành phố Thái Nguyên
+609, Huyện Đồng Hỷ
+610, Huyện Võ Nhai
+611,Thành phố Sông Công
+612, Thị xã Phổ Yên
+613, Huyện Phú Bình
+614,Thành phố Thanh Hóa
+615, Thành phố Sầm Sơn
+616, Huyện Hoằng Hóa
+617, Huyện Đông Sơn
+618,Thị xã Bỉm Sơn
+619, Huyện Hà Trung
+620, Huyện Nga Sơn
+621, Huyện Hậu Lộc
+622, Huyện Vĩnh Lộc
+623, Huyện Thạch Thành
+624,Thị xã Nghi Sơn
+625, Huyện Quảng Xương
+626, Huyện Nông Cống
+627, Huyện Như Xuân
+628, Huyện Như Thanh
+629,Huyện Triệu Sơn
+630, Huyện Thiệu Hóa
+631, Huyện Yên Định
+632, Huyện Thọ Xuân
+633,Huyện Quan Hóa
+634, Huyện Quan Sơn
+635, Huyện Mường Lát
+636, Huyện Lang Chánh
+637, Huyện Bá Thước
+638, Huyện Ngọc Lặc
+639, Huyện Thường Xuân
+640, Huyện Cẩm Thủy
+641,Thị xã Hương Trà
+642, Huyện Phong Điền
+643, Huyện Quảng Điền
+644, Huyện A Lưới
+645,Thành phố Huế
+646, Thị xã Hương Thủy
+647,Huyện Phú Vang
+648, Huyện Phú Lộc
+649, Huyện Nam Đông
+650,Thị xã Cai Lậy
+651, Huyện Cái Bè
+652, Huyện Cai Lậy
+653,Thành phố Mỹ Tho
+654, Huyện Tân Phước
+655, Huyện Châu Thành
+656,Thị xã Gò Công
+657, Huyện Chợ Gạo
+658, Huyện Gò Công Tây
+659, Gò Công Đông
+660, Huyện Tân Phú Đông
+661,Thành phố Trà Vinh
+662, Huyện Càng Long
+663, Huyện Cầu Kè
+664, Huyện Tiểu Cần
+665,Thị xã Duyên Hải
+666, Huyện Châu Thành
+667, Huyện Cầu Ngang
+668, Huyện Trà Cú
+669, Duyên Hải
+670,Huyện Na Hang
+671, Huyện Lâm Bình
+672, Huyện Chiêm Hóa
+673,Huyện Hàm Yên
+674, Huyện Yên Sơn
+675,Thành phố Tuyên Quang
+676, Huyện Sơn Dương
+677,Thành phố Vĩnh Long
+678, Huyện Long Hồ
+679, Huyện Mang Thít
+680, Huyện Tam Bình
+681,Thị xã Bình Minh
+682, Huyện Bình Tân
+683, Huyện Trà Ôn
+684, Huyện Vũng Liêm
+685,Thành phố Vĩnh Yên
+686, Thành phố Phúc Yên
+687, Huyện Vĩnh Tường
+688, Huyện Yên Lạc
+689,Huyện Sông Lô
+690, Huyện Tam Dương
+691, Huyện Tam Đảo
+692, Huyện Lập Thạch
+693, Huyện Bình Xuyên
+694,Thành phố Yên Bái
+695, Huyện Yên Bình
+696, Huyện Trấn Yên
+697, Huyện Lục Yên
+698,Thị xã Nghĩa Lô
+699, Huyện Văn Chấn
+700, Huyện Trạm Tấu
+701, Huyện Mù Cang Chải
+702, Huyện Văn Yên
