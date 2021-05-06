@@ -1,0 +1,17 @@
+{
+    "strProvinceName": "Tỉnh Hải Dương",
+    "dictDistricts": {
+        "Thành phố Chí Linh": 306,
+        "Thị xã Kinh Môn": 307,
+        "Huyện Kim Thành": 308,
+        "Thành phố Hải Dương": 309,
+        "Huyện Nam Sách": 310,
+        "Huyện Thanh Hà": 311,
+        "Huyện Gia Lộc": 312,
+        "Huyện Tứ Kỳ": 313,
+        "Huyện Cầm Giàng": 314,
+        "Huyện Bình Giang": 315,
+        "Huyện Thanh Miện": 316,
+        "Huyện Ninh Giang": 317
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "strProvinceName": "Tỉnh Kiên Giang",
+    "dictDistricts": {
+        "Huyện Tân Hiệp": 355,
+        "Huyện Kiên Hải": 356,
+        "Huyện Giồng Riềng": 357,
+        "Huyện Gò Quao": 358,
+        "Huyện An Biên": 359,
+        "Huyện An Minh": 360,
+        "Huyện Vĩnh Thuận": 361,
+        "Huyện U Minh Thượng": 362,
+        "Huyện Châu Thành": 363,
+        "Thành phố Rạch Giá": 364,
+        "Thành phố Hà Tiên": 365,
+        "Thành phố Phú Quốc": 366,
+        "Huyện Kiên Lương": 367,
+        "Huyện Hòn Đất": 368,
+        "Huyện Giang Thành": 369
+    }
+}

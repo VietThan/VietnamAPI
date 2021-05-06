@@ -82,7 +82,7 @@ with open(os.path.join(__location__, inputFileName), "r") as inputFile:
 
 
 for strProvinceName, intProvinceKey in provinceKeys.items():
-    with open(os.path.join(__location__, provDisFileDirectory, str(intProvinceKey)), "w") as provinceToDistrictsJson:
+    with open(os.path.join(__location__, provDisFileDirectory, str(intProvinceKey)+'.json'), "w") as provinceToDistrictsJson:
         json.dump(provinceDistricts[strProvinceName], provinceToDistrictsJson, indent=4, ensure_ascii=False)
         print(f'Finished writing to province key {intProvinceKey}')
     provinceToDistrictsJson.close()

@@ -1,0 +1,16 @@
+{
+    "strProvinceName": "Tỉnh Sóc Trăng",
+    "dictDistricts": {
+        "Thành phố Sóc Trăng": 565,
+        "Huyện Châu Thành": 566,
+        "Huyện Kế Sách": 567,
+        "Huyện Long Phú": 568,
+        "Huyện Cù Lao Dung": 569,
+        "Thị xã Ngã Năm": 570,
+        "Huyện Mỹ Tú": 571,
+        "Huyện Thạnh Trị": 572,
+        "Thị xã Vĩnh Châu": 573,
+        "Huyện Mỹ Xuyên": 574,
+        "Huyện Trần Đề": 575
+    }
+}

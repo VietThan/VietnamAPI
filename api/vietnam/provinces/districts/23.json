@@ -1,0 +1,17 @@
+{
+    "strProvinceName": "Tỉnh Đồng Tháp",
+    "dictDistricts": {
+        "Thành phố Hồng Ngự": 247,
+        "Huyện Tân Hồng": 248,
+        "Huyện Hồng Ngự": 249,
+        "Huyện Tam Nông": 250,
+        "Thành phố Cao Lãnh": 251,
+        "Huyện Thanh Bình": 252,
+        "Huyện Cao Lãnh": 253,
+        "Huyện Tháp Mười": 254,
+        "Thành phố Sa Đéc": 255,
+        "Huyện Lấp Vò": 256,
+        "Huyện Lai Vung": 257,
+        "Huyện Châu Thành": 258
+    }
+}

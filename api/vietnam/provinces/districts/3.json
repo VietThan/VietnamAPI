@@ -1,0 +1,20 @@
+{
+    "strProvinceName": "TP. Hải Phòng",
+    "dictDistricts": {
+        "Quận Hồng Bàng": 52,
+        "Quận Lê Chân": 53,
+        "Huyện Thủy Nguyên": 54,
+        "Cát Hải": 55,
+        "Bạch Long Vĩ": 56,
+        "Quận Ngô Quyền": 57,
+        "Quận Hải An": 58,
+        "Quận Đồ Sơn": 59,
+        "Huyện An Dương": 60,
+        "Huyện Kiến Thụy": 61,
+        "Quận Kiến An": 62,
+        "Dương Kinh": 63,
+        "Huyện An Lão": 64,
+        "Huyện Tiên Lãng": 65,
+        "Huyện Vĩnh Bảo": 66
+    }
+}
