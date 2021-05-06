@@ -1,0 +1,13 @@
+{
+    "strProvinceName": "Tỉnh Bắc Kạn",
+    "dictDistricts": {
+        "Huyện Ba Bể": 110,
+        "Huyện Ngân Sơn": 111,
+        "Huyện Na Rì": 112,
+        "Huyện Pác Nặm": 113,
+        "Thành phố Bắc Kạn": 114,
+        "Huyện Bạch Thông": 115,
+        "Huyện Chợ Đồn": 116,
+        "Huyện Chợ Mới": 117
+    }
+}

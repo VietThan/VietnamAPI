@@ -1,0 +1,15 @@
+{
+    "strProvinceName": "Tỉnh Điện Biên",
+    "dictDistricts": {
+        "Thành phố Điện Biên Phủ": 226,
+        "Huyện Điện Biên Đông": 227,
+        "Huyện Mường Ảng": 228,
+        "Huyện Điện Biên": 229,
+        "Thị xã Mường Lay": 230,
+        "Huyện Mường Chà": 231,
+        "Huyện Nậm Pồ": 232,
+        "Huyện Mường Nhé": 233,
+        "Huyện Tuần Giáo": 234,
+        "Huyện Tùa Chùa": 235
+    }
+}

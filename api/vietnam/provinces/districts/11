@@ -1,0 +1,13 @@
+{
+    "strProvinceName": "Tỉnh Bắc Ninh",
+    "dictDistricts": {
+        "Thành phố Bắc Ninh": 128,
+        "Huyện Quế Võ": 129,
+        "Thị xã Từ Sơn": 130,
+        "Huyện Tiên Du": 131,
+        "Huyện Yên Phong": 132,
+        "Huyện Lương Tài": 133,
+        "Huyện Gia Bình": 134,
+        "Huyện Thuận Thành": 135
+    }
+}

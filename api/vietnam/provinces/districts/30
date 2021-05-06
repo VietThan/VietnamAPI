@@ -1,0 +1,15 @@
+{
+    "strProvinceName": "Tỉnh Hòa Bình",
+    "dictDistricts": {
+        "Thành phố Hòa Bình": 326,
+        "Huyện Đà Bắc": 327,
+        "Huyện Lương Sơn": 328,
+        "Huyện Mai Châu": 329,
+        "Huyện Tân Lạc": 330,
+        "Huyện Kim Bôi": 331,
+        "Huyện Cao Phong": 332,
+        "Huyện Lạc Sơn": 333,
+        "Huyện Lạc Thủy": 334,
+        "Huyện Yên Thủy": 335
+    }
+}

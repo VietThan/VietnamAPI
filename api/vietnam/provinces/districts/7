@@ -1,0 +1,13 @@
+{
+    "strProvinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+    "dictDistricts": {
+        "Thành phố Vũng Tàu": 95,
+        "Huyện Long Điền": 96,
+        "Huyện Đất Đỏ": 97,
+        "Huyện Côn Đảo": 98,
+        "Thành phố Bà Rịa": 99,
+        "Thị xã Phú Mỹ": 100,
+        "Huyện Châu Đức": 101,
+        "Huyện Xuyên Mộc": 102
+    }
+}

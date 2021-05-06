@@ -1,0 +1,15 @@
+{
+    "strProvinceName": "Tỉnh Bắc Giang",
+    "dictDistricts": {
+        "Huyện Sơn Động": 118,
+        "Huyện Lục Ngạn": 119,
+        "Huyện Lục Nam": 120,
+        "Thành phố Bắc Giang": 121,
+        "Huyện Yên Thế": 122,
+        "Huyện Lạng Giang": 123,
+        "Huyên Yên Dũng": 124,
+        "Huyện Tân Yên": 125,
+        "Huyện Hiệp Hòa": 126,
+        "Huyện Việt Yên": 127
+    }
+}

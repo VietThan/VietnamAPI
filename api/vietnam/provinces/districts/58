@@ -1,0 +1,16 @@
+{
+    "strProvinceName": "Tỉnh Tiền Giang",
+    "dictDistricts": {
+        "Thị xã Cai Lậy": 650,
+        "Huyện Cái Bè": 651,
+        "Huyện Cai Lậy": 652,
+        "Thành phố Mỹ Tho": 653,
+        "Huyện Tân Phước": 654,
+        "Huyện Châu Thành": 655,
+        "Thị xã Gò Công": 656,
+        "Huyện Chợ Gạo": 657,
+        "Huyện Gò Công Tây": 658,
+        "Gò Công Đông": 659,
+        "Huyện Tân Phú Đông": 660
+    }
+}

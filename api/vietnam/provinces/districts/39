@@ -1,0 +1,20 @@
+{
+    "strProvinceName": "Tỉnh Long An",
+    "dictDistricts": {
+        "Huyện Đức Huệ": 420,
+        "Huyện Đức Hòa": 421,
+        "Huyện Bến Lức": 422,
+        "Huyện Tân Trụ": 423,
+        "Thành phố Tân An": 424,
+        "Huyện Châu Thành": 425,
+        "Huyện Cần Đước": 426,
+        "Huyện Cần Giuộc": 427,
+        "Thị xã Kiến Tường": 428,
+        "Huyện Thủ Thừa": 429,
+        "Huyện Thạnh Hóa": 430,
+        "Huyện Tân Thạnh": 431,
+        "Huyện Mộc Hóa": 432,
+        "Huyện Vĩnh Hưng": 433,
+        "Huyện Tân Hưng": 434
+    }
+}

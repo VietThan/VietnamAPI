@@ -1,0 +1,16 @@
+{
+    "strProvinceName": "Tỉnh Lạng Sơn",
+    "dictDistricts": {
+        "Huyện Bắc Sơn": 388,
+        "Huyện Bình Gia": 389,
+        "Huyện Văn Quan": 390,
+        "Huyện Chi Lăng": 391,
+        "Huyện Hữu Lũng": 392,
+        "Thành phố Lạng Sơn": 393,
+        "Huyện Tràng Định": 394,
+        "Huyện Văn Lãng": 395,
+        "Huyện Cao Lộc": 396,
+        "Huyện Lộc Bình": 397,
+        "Huyện Đình Lập": 398
+    }
+}

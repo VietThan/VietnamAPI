@@ -1,0 +1,15 @@
+{
+    "strProvinceName": "Tỉnh Nam Định",
+    "dictDistricts": {
+        "Thành phố Nam Định": 435,
+        "Huyện Mỹ Lộc": 436,
+        "Huyện Vụ Bản": 437,
+        "Huyện Ý Yên": 438,
+        "Huyện Nam Trực": 439,
+        "Huyện Nghĩa Hưng": 440,
+        "Huyện Hải Hậu": 441,
+        "Huyện Xuân Trường": 442,
+        "Huyện Giao Thủy": 443,
+        "Huyện Trực Ninh": 444
+    }
+}

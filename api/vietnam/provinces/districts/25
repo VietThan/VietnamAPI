@@ -1,0 +1,16 @@
+{
+    "strProvinceName": "Tỉnh Hà Giang",
+    "dictDistricts": {
+        "Thành phố Hà Giang": 276,
+        "Huyện Đồng Văn": 277,
+        "Huyện Mèo Vạc": 278,
+        "Huyện Yên Minh": 279,
+        "Huyện Quản Bạ": 280,
+        "Huyện Bắc Mê": 281,
+        "Huyện Vị Xuyên": 282,
+        "Huyện Bắc Quang": 283,
+        "Huyện Quang Bình": 284,
+        "Huyện Hoàng Su Phi": 285,
+        "Huyện Xín Mần": 286
+    }
+}

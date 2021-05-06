@@ -1,0 +1,18 @@
+{
+    "strProvinceName": "Tỉnh Hà Tĩnh",
+    "dictDistricts": {
+        "Thành phố Hà Tĩnh": 293,
+        "Thị xã Kỳ Anh": 294,
+        "Huyện Kỳ Anh": 295,
+        "Huyện Cầm Xuyên": 296,
+        "Huyện Hương Khê": 297,
+        "Huyện Thạch Hà": 298,
+        "Huyện Can Lộc": 299,
+        "Huyện Nghi Xuân": 300,
+        "Huyện Lộc Hà": 301,
+        "Thị xã Hồng Lĩnh": 302,
+        "Huyện Đức Thọ": 303,
+        "Huyện Hương Sơn": 304,
+        "Huyện Vũ Quang": 305
+    }
+}

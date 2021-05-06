@@ -1,0 +1,16 @@
+{
+    "strProvinceName": "Tỉnh Đồng Nai",
+    "dictDistricts": {
+        "Thành phố Biên Hòa": 236,
+        "Huyện Vĩnh Cửu": 237,
+        "Huyện Trảng Bom": 238,
+        "Huyện Thống Nhất": 239,
+        "Huyện Long Thành": 240,
+        "Huyện Nhơn Trạch": 241,
+        "Huyện Cẩm Mỹ": 242,
+        "Thành phố Long Khánh": 243,
+        "Huyện Xuân Lộc": 244,
+        "Huyện Định Quán": 245,
+        "Huyện Tân Phú": 246
+    }
+}

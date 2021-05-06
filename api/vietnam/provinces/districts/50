@@ -1,0 +1,15 @@
+{
+    "strProvinceName": "Tỉnh Quảng Trị",
+    "dictDistricts": {
+        "Huyện Vĩnh Linh": 555,
+        "Huyện Gio Linh": 556,
+        "Huyện Đakrông": 557,
+        "Huyện Hướng Hóa": 558,
+        "Huyện Đảo Cồn Cỏ": 559,
+        "Thành phố Đông Hà": 560,
+        "Thị xã Quảng Trị": 561,
+        "Huyện Triệu Phong": 562,
+        "Huyện Cam Lộ": 563,
+        "Huyện Hải Lăng": 564
+    }
+}

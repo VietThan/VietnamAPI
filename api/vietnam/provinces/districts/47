@@ -1,0 +1,23 @@
+{
+    "strProvinceName": "Tỉnh Quảng Nam",
+    "dictDistricts": {
+        "Thị xã Điện Bàn": 511,
+        "Huyện Đại Lộc": 512,
+        "Huyện Đông Giang": 513,
+        "Huyện Tây Giang": 514,
+        "Huyện Nam Giang": 515,
+        "Huyện Phước Sơn": 516,
+        "Thành phố Hội An": 517,
+        "Huyện Duy Xuyên": 518,
+        "Huyện Quế Sơn": 519,
+        "Huyện Nông Sơn": 520,
+        "Huyện Thăng Bình": 521,
+        "Huyện Hiệp Đức": 522,
+        "Thành phố Tam Kỳ": 523,
+        "Huyện Núi Thành": 524,
+        "Huyện Tiên Phước": 525,
+        "Huyện Nam Trà My": 526,
+        "Huyện Bắc Trà My": 527,
+        "Huyện Phú Ninh": 528
+    }
+}

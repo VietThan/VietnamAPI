@@ -1,0 +1,11 @@
+{
+    "strProvinceName": "Tỉnh Đắk Nông",
+    "dictDistricts": {
+        "Huyện Krông Nô": 220,
+        "Huyện Cư Jút": 221,
+        "Huyện Đắk Mil": 222,
+        "Thành phố Gia Nghĩa": 223,
+        "Huyện Đắk Glong": 224,
+        "Huyện Đắk R'Lấp": 225
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "strProvinceName": "Tỉnh Quảng Ngãi",
+    "dictDistricts": {
+        "Huyện Bình Sơn": 529,
+        "Huyện Sơn Tịnh": 530,
+        "Huyện Trà Bồng": 531,
+        "Huyện Sơn Tây": 532,
+        "Huyện Sơn Hà": 533,
+        "Thành phố Quảng Ngãi": 534,
+        "Huyện Tư Nghĩa": 535,
+        "Huyện Nghĩa Hành": 536,
+        "Huyện Lý Sơn": 537,
+        "Thị xã Đức Phổ": 538,
+        "Huyện Mộ Đức": 539,
+        "Huyện Ba Tơ": 540,
+        "Huyện Minh Long": 541
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "strProvinceName": "Tỉnh Thái Bình",
+    "dictDistricts": {
+        "Huyện Vũ Thư": 597,
+        "Huyện Hưng Hà": 598,
+        "Huyện Quỳnh Phụ": 599,
+        "Huyện Đông Hưng": 600,
+        "Huyện Thái Thụy": 601,
+        "Thành phố Thái Bình": 602,
+        "Huyện Tiền Hải": 603,
+        "Huyện Kiến Xương": 604
+    }
+}

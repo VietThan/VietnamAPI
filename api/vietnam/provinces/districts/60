@@ -1,0 +1,12 @@
+{
+    "strProvinceName": "Tỉnh Tuyên Quang",
+    "dictDistricts": {
+        "Huyện Na Hang": 670,
+        "Huyện Lâm Bình": 671,
+        "Huyện Chiêm Hóa": 672,
+        "Huyện Hàm Yên": 673,
+        "Huyện Yên Sơn": 674,
+        "Thành phố Tuyên Quang": 675,
+        "Huyện Sơn Dương": 676
+    }
+}

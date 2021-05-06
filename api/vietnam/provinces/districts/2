@@ -1,0 +1,26 @@
+{
+    "strProvinceName": "TP. Hồ Chí Minh",
+    "dictDistricts": {
+        "Thành phố Thủ Đức": 31,
+        "Quận 1": 32,
+        "Quận 3": 33,
+        "Quận Bình Thạnh": 34,
+        "Quận 5": 35,
+        "Quận 8": 36,
+        "Quận 11": 37,
+        "Quận 10": 38,
+        "Quận 12": 39,
+        "Quận Tân Bình": 40,
+        "Quận Tân Phú": 41,
+        "Quận Bình Tân": 42,
+        "Quận Phú Nhuận Gò Vấp": 43,
+        "Quận 6": 44,
+        "Huyện Bình Chánh": 45,
+        "Quận 4": 46,
+        "Quận 7": 47,
+        "Huyện Nhà Bè": 48,
+        "Huyện Cần Giờ": 49,
+        "Huyện Củ Chi": 50,
+        "Huyện Hóc Môn": 51
+    }
+}

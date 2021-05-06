@@ -39,6 +39,8 @@ for khoaProvinceKey, districts in khoaDistricts.items():
 
 print(f'{count-1} districts have been processed from Khoa\'s {khoaFileName}')
 
+
+# Extract Google data
 inputDistricts = {}
 
 with open(os.path.join(__location__, inputFileName), "r") as inputFile:
@@ -49,7 +51,7 @@ with open(os.path.join(__location__, inputFileName), "r") as inputFile:
         astrDistricts = row["astrDistricts"]
         delimDistricts = astrDistricts.split(',')
         for district in delimDistricts:
-            inputDistricts[districtCount] = district
+            inputDistricts[districtCount] = district.strip()
             districtCount+=1
         unitCount +=1
 

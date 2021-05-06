@@ -1,0 +1,20 @@
+{
+    "strProvinceName": "Tỉnh Đắk Lắk",
+    "dictDistricts": {
+        "Thành phố Buôm Ma Thuột": 205,
+        "Huyện Buôn Đôn": 206,
+        "Huyện Ea Súp": 207,
+        "Huyện Cư M'Gar": 208,
+        "Huyện Krông Bông": 209,
+        "Huyện Krông Pắc": 210,
+        "Huyện Lắk": 211,
+        "Huyện M'Drắk": 212,
+        "Huyện Cư Kuin": 213,
+        "Huyện Krông Ana": 214,
+        "Thị xã Buôn Hồ": 215,
+        "Huyện Ea H'Leo": 216,
+        "Huyện Krông Búk": 217,
+        "Huyện Krông Năng": 218,
+        "Huyện Ea Kar": 219
+    }
+}
