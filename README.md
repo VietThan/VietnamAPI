@@ -26,7 +26,7 @@ api/
 				- units.json
 					- [intUnitKey] = {[strProvinceKey], [intProvinceUnitKey]}
 				- 1,2,...,184.json
-                    - must include: {[astrDistrictKeys], [intProvinceKey]}
+                    			- must include: {[astrDistrictKeys], [intProvinceKey]}
 			candidates/
 				- candidates.json
 					- [intCandidateKey]: {[intUnitKey], [strCandidateName]}
