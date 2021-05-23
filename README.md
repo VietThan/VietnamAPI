@@ -12,7 +12,7 @@ api/
 	v1/
 		provinces/
 			- provinces.json
-				- ~[strProvinceName] = intProvinceKey~
+				- [strProvinceName] = intProvinceKey
 				- [intProvinceKey] = strProvinceName
 			- 1,2,...,63.json
 				- must include: {[aintDistrictKeys], [aintUnitKeys]}	
